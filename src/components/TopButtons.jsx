@@ -16,7 +16,7 @@ function TopButtons({setQuery}) {
     },
     {
       id: 4,
-      title: "Atlanta",
+      title: "Tokyo",
     },
     {
       id: 5,
